@@ -3,3 +3,11 @@ What happens when you initialize a repository? Why do you need to do it?
 You may also wish to run git status after you have created the file. You should see that now both files are listed as untracked files.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You may also want to commit your changes to the file. When you're ready to move on, click "Next" and Sarah will go over a concept called branching.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
